@@ -40,7 +40,7 @@ if($nest_response) {
 	$nest_data->save($nest_response);
 }
 
-$wunderground_api_url = 'http://api.wunderground.com/api/dd3736b699396568/conditions/q/NJ/Brigantine.json';
+$wunderground_api_url = 'http://api.wunderground.com/api/xxxxxxxxxxxx/conditions/q/NJ/Brigantine.json';
   // create curl resource 
         $ch = curl_init(); 
 
